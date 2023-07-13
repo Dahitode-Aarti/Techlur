@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "name": "CI Bos",
+      "team": "",
+      "status": "IN_PROGRESS",
+      "id": 26,
+      "project_code": "CB",
+      "description": "Ci Bos",
+      "billing_type": "hourly",
+      "currency": "EURO",
+      "created_at": "2021-02-23 10:06:12",
+      "updated_at": "2023-07-06 13:19:35",
+      "deleted_at": null,
+      "meta_data": {
+        "bgColor": "#1b00ff"
+      },
+      "project_owner": 13,
+      "users": [
+        {
+          "id": 21,
+          "name": "Mohan Singh",
+          "email": "mailto:mj@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/4df408ded334913375f325f6180f9ec7"
+        },
+        {
+          "id": 5,
+          "name": "Shivali Sharma",
+          "email": "mailto:sdd@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/7916f98ba9748e165fd9ef70532932ec",
+          "timezone": "Asia/Calcutta",
+          "created_at": "2019-12-02 01:54:27",
+          "updated_at": "2023-07-02 08:47:17"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Domain Analysis",
+      "project_code": "DA",
+      "description": "Built with Reacts, Next Js and Backend Stack - Nodejs, MongoDB",
+      "billing_type": "hourly",
+      "currency": "AUD",
+      "created_at": "2023-07-04 04:49:46",
+      "updated_at": "2023-07-04 04:51:25",
+      "deleted_at": null,
+      "meta_data": {
+        "bgColor": "green"
+      },
+      "status": "IN_PROGRESS",
+      "project_owner": 22,
+      "users": [
+        {
+          "id": 2,
+          "name": "Mohan Singh",
+          "email": "mailto:mj@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/4df408ded334913375f325f6180f9ec7"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Live Stock React App",
+      "project_code": "LS",
+      "description": "A react native application",
+      "billing_type": "hourly",
+      "currency": "USD",
+      "created_at": "2022-08-03 19:11:10",
+      "updated_at": "2023-06-30 08:30:09",
+      "deleted_at": null,
+      "meta_data": {
+        "bgColor": "#e2bd43"
+      },
+      "status": "IN_PROGRESS",
+      "project_owner": null,
+      "users": [
+        {
+          "id": 2,
+          "name": "Mohan Singh",
+          "email": "mailto:mj@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/4df408ded334913375f325f6180f9ec7"
+        },
+        {
+          "id": 3,
+          "name": "Kiran Kumar",
+          "email": "mailto:pjk@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/922cbe2e61f3dac3fce13c9722a017d0",
+          "timezone": "Asia/Calcutta"
+        },
+        {
+          "id": 4,
+          "name": "Navdeep Sharma",
+          "email": "mailto:sdd@ddd.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/2d8e705069ea5ecd0eaa2bbe2a86033c"
+        },
+        {
+          "id": 7,
+          "name": "Shubham Sharma",
+          "email": "mailto:pjsk@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/170b69ffc65f647d3cc9b7630f249be2"
+        },
+        {
+          "id": 10,
+          "name": "Sourav Garg",
+          "email": "mailto:jhp@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/1707c578c72be08da1abab4c6f571003",
+          "timezone": "Asia/Calcutta"
+        },
+        {
+          "id": 11,
+          "name": "Mehak Sohal",
+          "email": "mailto:nhs@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/f990912f2001783d23d73bf896a03323"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "On Desk",
+      "project_code": "OD",
+      "description": "On Desk",
+      "billing_type": "hourly",
+      "currency": "USD",
+      "created_at": null,
+      "updated_at": "2023-06-30 08:30:09",
+      "deleted_at": null,
+      "meta_data": {
+        "bgColor": "#303030"
+      },
+      "status": "IN_PROGRESS",
+      "project_owner": null,
+      "users": [
+        {
+          "id": 1,
+          "name": "Owner",
+          "email": "mailto:techlur@gmail.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/b39d91a2972773c6fb289d3402212755"
+        },
+        {
+          "id": 2,
+          "name": "Mohan Singh",
+          "email": "mailto:mj@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/4df408ded334913375f325f6180f9ec7"
+        },
+        {
+          "id": 5,
+          "name": "Shivali Sharma",
+          "email": "mailto:sdd@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/7916f98ba9748e165fd9ef70532932ec"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Sales Phisher",
+      "project_code": "SP",
+      "description": "Sales automation",
+      "billing_type": "hourly",
+      "currency": "AUD",
+      "created_at": "2020-07-20 19:59:10",
+      "updated_at": "2023-07-05 11:48:40",
+      "deleted_at": null,
+      "meta_data": {
+        "bgColor": "#f3a300"
+      },
+      "status": "IN_PROGRESS",
+      "project_owner": 3,
+      "users": [
+        {
+          "id": 2,
+          "name": "Mohan Singh",
+          "email": "mailto:mj@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/4df408ded334913375f325f6180f9ec7"
+        },
+        {
+          "id": 3,
+          "name": "Kiran Kumar",
+          "email": "mailto:pjk@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/922cbe2e61f3dac3fce13c9722a017d0"
+        },
+        {
+          "id": 5,
+          "name": "Shivali Sharma",
+          "email": "mailto:sdd@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/7916f98ba9748e165fd9ef70532932ec"
+        },
+        {
+          "id": 10,
+          "name": "Sourav Garg",
+          "email": "mailto:jhp@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/1707c578c72be08da1abab4c6f571003"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Watch list API",
+      "project_code": "WL",
+      "description": "To build API in nodejs and express",
+      "billing_type": "hourly",
+      "currency": "USD",
+      "created_at": "2023-06-28 06:13:21",
+      "updated_at": "2023-06-30 08:30:09",
+      "deleted_at": null,
+      "meta_data": {
+        "bgColor": "blue"
+      },
+      "status": "IN_PROGRESS",
+      "project_owner": null,
+      "users": [
+        {
+          "id": 2,
+          "name": "Mohan Singh",
+          "email": "mailto:mj@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/4df408ded334913375f325f6180f9ec7"
+        },
+        {
+          "id": 8,
+          "name": "Apoorv Srivastava",
+          "email": "mailto:sddd@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/ba24e51514214183fc0f67dbe9f9fbff"
+        },
+        {
+          "id": 11,
+          "name": "Mehak Sohal",
+          "email": "mailto:nhs@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/f990912f2001783d23d73bf896a03323"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Zorba",
+      "project_code": "Z",
+      "description": "React Admin Dashboard",
+      "billing_type": "hourly",
+      "currency": "USD",
+      "created_at": "2022-10-13 08:49:26",
+      "updated_at": "2023-06-30 08:30:09",
+      "deleted_at": null,
+      "meta_data": {
+        "bgColor": "#ff00e7"
+      },
+      "status": "IN_PROGRESS",
+      "project_owner": null,
+      "users": [
+        {
+          "id": 2,
+          "name": "Mohan Singh",
+          "email": "mailto:mj@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/4df408ded334913375f325f6180f9ec7"
+        },
+        {
+          "id": 10,
+          "name": "Sourav Garg",
+          "email": "mailto:jhp@example.com",
+          "username": null,
+          "slack_id": null,
+          "photo": "https://www.gravatar.com/avatar/1707c578c72be08da1abab4c6f571003"
+        }
+      ]
+    }
+  ]
+}
